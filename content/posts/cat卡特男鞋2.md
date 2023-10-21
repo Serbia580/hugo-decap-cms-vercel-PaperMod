@@ -9,6 +9,8 @@ tags:
   - 男鞋
 categories:
   - cat男鞋
+cover:
+  image: "1"
 thumbnail: https://cdn.jsdelivr.net/gh/feifei8333/image@main/202310/202310021743590.jpg
 ---
 
