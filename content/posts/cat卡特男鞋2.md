@@ -2,9 +2,7 @@
 title: "Cat卡特男鞋2"
 date: 2023-10-02T14:55:10+06:00
 description: "This is meta description"
-type: "post"
 image: "https://cdn.jsdelivr.net/gh/feifei8333/image@main/202310/202310021743590.jpg"
-url: /posts/cat2.html
 categories: 
   - "cat男鞋"
 tags:
