@@ -10,8 +10,8 @@ tags:
 categories:
   - cat男鞋
 cover:
-  image: cat2
-thumbnail: https://cdn.jsdelivr.net/gh/feifei8333/image@main/202310/202310021743590.jpg
+  image: https://cdn.jsdelivr.net/gh/feifei8333/image@main/202310/202310021729107.jpg
+thumbnail: ""
 ---
 
 
