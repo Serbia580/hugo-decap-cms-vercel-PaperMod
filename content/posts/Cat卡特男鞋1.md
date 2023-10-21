@@ -1,16 +1,19 @@
 ---
-title: "Cat卡特男鞋1"
+image: https://cdn.jsdelivr.net/gh/feifei8333/image@main/202310/202310021729107.jpg
+title: Cat卡特男鞋3
+description: This is meta description
 date: 2023-10-02T14:53:10+06:00
-description: "This is meta description"
-type: "post"
-image: "https://cdn.jsdelivr.net/gh/feifei8333/image@main/202310/202310021729107.jpg"
-url: /posts/cat1.html
-categories: 
-  - "cat男鞋"
+updated: 2023-10-22 00:59:41
 tags:
   - cat男鞋"
-  - "男鞋"
-
+  - 男鞋
+cover:
+  image: "3"
+thumbnail: https://cdn.jsdelivr.net/gh/feifei8333/image@main/202310/202310021729107.jpg
+url: /posts/cat1.html
+type: post
+categories:
+  - cat男鞋
 ---
 
 
