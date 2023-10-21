@@ -8,10 +8,9 @@ tags:
   - cat男鞋"
   - 男鞋
 cover:
-  image: "3"
+  image: "https://cdn.jsdelivr.net/gh/feifei8333/image@main/202310/202310021729107.jpg"
 thumbnail: https://cdn.jsdelivr.net/gh/feifei8333/image@main/202310/202310021729107.jpg
 url: /posts/cat1.html
-type: post
 categories:
   - cat男鞋
 ---
