@@ -49,6 +49,7 @@ collections:
               name: "image",
               default: "images/cover.png",
               widget: "string",
+              required: false,
             }
       - {
           label: "Images",
