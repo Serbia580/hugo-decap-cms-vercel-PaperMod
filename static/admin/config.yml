@@ -60,8 +60,8 @@ collections:
         }
       - {label: "内容", name: "body", widget: "markdown", required: false}
 
-  - name: "cat"
-    label: "cat"
+  - name: "post"
+    label: "post"
     files:
       - file: "content/posts/cat"
         name: "cat"
