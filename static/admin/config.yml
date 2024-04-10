@@ -21,8 +21,8 @@ collections:
   - name: "post" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
     folder: 
-      - content/posts/cat
-      - content/posts/tech
+      - content/posts/cat/**
+      - content/posts/tech/**
     path: '{{slug}}/index' # beta feature
     media_folder: ''
     public_folder: ''
