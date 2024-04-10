@@ -20,7 +20,7 @@ locale: "zh_Hans" # 语言环境 https://github.com/netlify/netlify-cms/tree/mas
 collections:
   - name: "post" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
-    folder: "content/posts" # The path to the folder where the documents are stored
+    folder: 
       - content/posts/cat
       - content/posts/tech
     path: '{{slug}}/index' # beta feature
