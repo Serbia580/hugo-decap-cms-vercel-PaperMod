@@ -18,7 +18,7 @@ public_folder: "/images/uploads" # 上传的媒体的src属性将以/images/uplo
 locale: "zh_Hans" # 语言环境 https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-locales/src
 
 collections:
-  - name: "post2" # Used in routes, e.g., /admin/collections/blog
+  - name: "post" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
     folder: "content/posts" # The path to the folder where the documents are stored
     path: '{{slug}}/index' # beta feature
@@ -60,8 +60,8 @@ collections:
         }
       - {label: "内容", name: "body", widget: "markdown", required: false}
 
-  - name: "post"
-    label: "post"
+  - name: "post2"
+    label: "cat"
     files:
       - file: "content/posts/cat"
         name: "cat"
